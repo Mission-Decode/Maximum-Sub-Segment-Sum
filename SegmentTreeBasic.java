@@ -25,7 +25,8 @@ public class Solution {
                 catch (IOException  e)
                 {
                     e.printStackTrace();
-                }
+                
+		}
             }
             return st.nextToken();
         }
